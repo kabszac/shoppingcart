@@ -1,0 +1,49 @@
+.primary-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.nav-title{
+    margin-left: 150px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nav-links{
+    margin-right: 150px;
+}
+
+.nav-links a{
+    text-decoration: none;
+    color: white;
+    margin-right: 12px;
+    font-size: 16px;
+}
+
+.link-cart{
+    margin-right: 0;
+}
+
+.nav-links a:focus{
+    text-decoration: underline;
+    font-size: 20x;
+    color: red;
+}
+
+.nav-links a:hover{
+    transform: scale(3.5);
+    color: black;
+}
+
+.span1{
+    color: yellow;
+}
+
+.span2{
+    color: red;
+}
+
