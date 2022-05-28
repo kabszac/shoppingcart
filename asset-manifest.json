@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shoppingcart/static/css/main.54376856.css",
+    "main.js": "/shoppingcart/static/js/main.6d5325ee.js",
+    "static/media/BG.png": "/shoppingcart/static/media/BG.3cb7e7fbb618830cff10.png",
+    "static/media/jewellery.jpg": "/shoppingcart/static/media/jewellery.228c7cea0df09844a034.jpg",
+    "static/media/bmodel.jpg": "/shoppingcart/static/media/bmodel.7207a64ecbd201acbb0e.jpg",
+    "static/media/lupita2.jpg": "/shoppingcart/static/media/lupita2.b961044f20d371fab8d9.jpg",
+    "static/media/maasai.jpeg": "/shoppingcart/static/media/maasai.b5ffc8d8a2e68c4e8ba6.jpeg",
+    "static/media/jewellery2.jpg": "/shoppingcart/static/media/jewellery2.b084b9298359f7b55254.jpg",
+    "static/media/dress1.jpeg": "/shoppingcart/static/media/dress1.35b4abbc6671e9060723.jpeg",
+    "static/media/dress2.jpeg": "/shoppingcart/static/media/dress2.9bdbb11c3cf411eb6d0d.jpeg",
+    "static/media/dashiki.jpeg": "/shoppingcart/static/media/dashiki.2cecc1c27b153f66ef32.jpeg",
+    "static/media/jewellery3.jpeg": "/shoppingcart/static/media/jewellery3.2078ad9694ddce97a1af.jpeg",
+    "static/media/dress3.jpeg": "/shoppingcart/static/media/dress3.07b52da7707a65c97ebd.jpeg",
+    "static/media/ankara.jpeg": "/shoppingcart/static/media/ankara.3f19c09ff5b13b25c4ea.jpeg",
+    "index.html": "/shoppingcart/index.html",
+    "main.54376856.css.map": "/shoppingcart/static/css/main.54376856.css.map",
+    "main.6d5325ee.js.map": "/shoppingcart/static/js/main.6d5325ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54376856.css",
+    "static/js/main.6d5325ee.js"
+  ]
+}
